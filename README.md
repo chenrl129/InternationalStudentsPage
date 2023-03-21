@@ -1,1 +1,2 @@
-﻿# Transfered to this repo: https://github.com/skanipakala/InternationalStudentsPage
+﻿# Transfered to this repo for ZEET deployment:
+ https://github.com/skanipakala/InternationalStudentsPage
